@@ -1,10 +1,12 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:thrift/pages/about.dart';
 import 'package:thrift/pages/cartpage.dart';
 import 'package:thrift/pages/checkout.dart';
 
 import 'package:thrift/pages/home_page.dart';
 import 'package:thrift/pages/login.dart';
+import 'package:thrift/pages/payment.dart';
 import 'package:thrift/pages/welcome_page.dart';
 
 void main() async {
